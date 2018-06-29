@@ -1,0 +1,10 @@
+<div>
+  <form (submit)="newTODO($event)">
+      <label>Add todo</label>
+      <input type="text" [(ngModel)]="todoText" name="todoText"/>
+      <button type="submit">Ajouter</button>
+  </form>
+  <ul>
+    <app-list-item *ngFor="let item of todoList; let i = index" [item]="item"></app-list-item>
+  </ul>
+</div>

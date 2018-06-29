@@ -1,6 +1,8 @@
 
 # Created by https://www.gitignore.io/api/macos,linux,node,code
 
+/Angular/node_modules
+
 ### Code ###
 # Visual Studio Code - https://code.visualstudio.com/
 .settings/
