@@ -1,10 +1,13 @@
-# Présentation librairies front
+# Retour d'expérience sur les framework JS
 
-Code utiliser dans le cadre d'unretour d'expérience sur les 3 principaux framework JS.
+Code utilisé dans le cadre d'un retour d'expérience sur les 3 principaux framework JS :
+- Angular
+- React
+- Vue
 
-## Application réalisé
+## Application réalisée
 
-Pour mettre en évidence les différences entre les 3 framework, la même application a été fait en Angular, en React et en Vue.  
+Pour mettre en évidence les différences entre les 3 framework, la même application a été faite en Angular, en React et en Vue.  
 L'application est une TodoList avec un formulaire d'ajout de Todo selon le template HTML suivant :
 
 ```html
@@ -24,7 +27,7 @@ L'application est une TodoList avec un formulaire d'ajout de Todo selon le templ
 
 ## Angular
 
-Application créer à partir de la CLI Angular.
+Application créée à partir de la CLI Angular.
 
 Pour lancer l'application Angular :
 ```
@@ -35,7 +38,7 @@ npm start
 
 ## React
 
-Application créer à partir de la CLI `create-react-app`.
+Application créée à partir de la CLI `create-react-app`.
 
 Pour lancer l'application React :
 ```
@@ -46,7 +49,7 @@ npm start
 
 ## Vue
 
-Application créer à partir de la CLI Vue.
+Application créée à partir de la CLI Vue.
 
 Pour lancer l'application Vue :
 ```
