@@ -5,6 +5,8 @@ Code utilisé dans le cadre d'un retour d'expérience sur les 3 principaux frame
 - React
 - Vue
 
+Retour d'expérience : https://docs.google.com/presentation/d/1-DIdrek20kqqUu92EXE9mnmKJNSHarMe1dBCW41rkMQ/edit?usp=sharing
+
 ## Application réalisée
 
 Pour mettre en évidence les différences entre les 3 framework, la même application a été faite en Angular, en React et en Vue.  
